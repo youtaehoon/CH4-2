@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ur5\\cx\\source\\cx\\cxgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ur5\\cx\\intermediate\\build\\win64\\x64\\cxeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_5.h.pch",
+        "Includes": [
+            "c:\\ur5\\cx\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cx\\definitions.cx.h",
+            "c:\\ur5\\cx\\source\\cx\\cxgamemode.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\ur5\\cx\\intermediate\\build\\win64\\unrealeditor\\inc\\cx\\uht\\cxgamemode.generated.h",
+            "c:\\ur5\\cx\\source\\cx\\cxplayercontroller.h",
+            "c:\\ur5\\cx\\source\\cx\\subsystem\\chatsubsystem.h",
+            "c:\\ur5\\cx\\intermediate\\build\\win64\\unrealeditor\\inc\\cx\\uht\\chatsubsystem.generated.h",
+            "c:\\ur5\\cx\\intermediate\\build\\win64\\unrealeditor\\inc\\cx\\uht\\cxplayercontroller.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\public\\engineutils.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstart.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\navigationobjectbase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navigationobjectbase.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstart.generated.h",
+            "c:\\ur5\\cx\\source\\cx\\playerstate\\cxplayerstate.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstate.generated.h",
+            "c:\\ur5\\cx\\intermediate\\build\\win64\\unrealeditor\\inc\\cx\\uht\\cxplayerstate.generated.h",
+            "c:\\ur5\\cx\\source\\cx\\gamestate\\cxgamestate.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
+            "c:\\ur5\\cx\\intermediate\\build\\win64\\unrealeditor\\inc\\cx\\uht\\cxgamestate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

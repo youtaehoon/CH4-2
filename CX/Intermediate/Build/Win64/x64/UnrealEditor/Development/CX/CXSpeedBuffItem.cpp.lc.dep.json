@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ur5\\cx\\source\\cx\\item\\cxspeedbuffitem.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ur5\\cx\\intermediate\\build\\win64\\x64\\cxeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_5.h.pch",
+        "Includes": [
+            "c:\\ur5\\cx\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cx\\definitions.cx.h",
+            "c:\\ur5\\cx\\source\\cx\\item\\cxspeedbuffitem.h",
+            "c:\\ur5\\cx\\intermediate\\build\\win64\\unrealeditor\\inc\\cx\\uht\\cxspeedbuffitem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

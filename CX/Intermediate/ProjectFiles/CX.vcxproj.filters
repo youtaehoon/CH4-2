@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CX.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CX.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CXEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CX">
+      <UniqueIdentifier>{F538755E-70A7-3A3F-BBB6-6E585584CAAC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CX\CX.Build.cs">
+      <Filter>Source\CX</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CX\CX.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CX.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXGameMode.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXGameMode.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXOffroadCar.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXOffroadCar.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXOffroadWheelFront.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXOffroadWheelFront.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXOffroadWheelRear.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXOffroadWheelRear.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXPawn.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXPawn.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXPlayerController.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXPlayerController.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXSportsCar.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXSportsCar.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXSportsWheelFront.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXSportsWheelFront.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXSportsWheelRear.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXSportsWheelRear.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXUI.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXUI.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXWheelFront.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXWheelFront.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\CXWheelRear.cpp">
+      <Filter>Source\CX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\CXWheelRear.h">
+      <Filter>Source\CX</Filter>
+    </ClInclude>
+    <Filter Include="Source\CX\GameState">
+      <UniqueIdentifier>{F5D52EF6-9BEA-3B94-95E8-86650FDA1F03}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CX\GameState\CXGameState.cpp">
+      <Filter>Source\CX\GameState</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\GameState\CXGameState.h">
+      <Filter>Source\CX\GameState</Filter>
+    </ClInclude>
+    <Filter Include="Source\CX\Item">
+      <UniqueIdentifier>{E5211AE2-1313-3A4A-9785-3CBA771E002C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CX\Item\CXCoinItem.cpp">
+      <Filter>Source\CX\Item</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\Item\CXCoinItem.h">
+      <Filter>Source\CX\Item</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\Item\CXItemSpawner.cpp">
+      <Filter>Source\CX\Item</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\Item\CXItemSpawner.h">
+      <Filter>Source\CX\Item</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CX\Item\CXSpeedBuffItem.cpp">
+      <Filter>Source\CX\Item</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\Item\CXSpeedBuffItem.h">
+      <Filter>Source\CX\Item</Filter>
+    </ClInclude>
+    <Filter Include="Source\CX\PlayerState">
+      <UniqueIdentifier>{2DF31672-50DD-3CD3-B0EB-23B9A09BF43B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CX\PlayerState\CXPlayerState.cpp">
+      <Filter>Source\CX\PlayerState</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\PlayerState\CXPlayerState.h">
+      <Filter>Source\CX\PlayerState</Filter>
+    </ClInclude>
+    <Filter Include="Source\CX\Subsystem">
+      <UniqueIdentifier>{C7776842-D142-3BA3-8A42-442BA912F063}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CX\Subsystem\ChatSubsystem.cpp">
+      <Filter>Source\CX\Subsystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\Subsystem\ChatSubsystem.h">
+      <Filter>Source\CX\Subsystem</Filter>
+    </ClInclude>
+    <Filter Include="Source\CX\UI">
+      <UniqueIdentifier>{74B2D332-F197-31AA-A509-453AD525E4DC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CX\UI\ChatUI.cpp">
+      <Filter>Source\CX\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CX\UI\ChatUI.h">
+      <Filter>Source\CX\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

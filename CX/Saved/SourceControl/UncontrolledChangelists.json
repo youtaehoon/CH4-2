@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UR5/CX/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/UR5/CX/Content/UI/UI_Chat.uasset",
+				"C:/UR5/CX/Content/VehicleTemplate/Blueprints/W_VehicleAdvUI.uasset",
+				"C:/UR5/CX/Content/VehicleTemplate/Input/Actions/IA_Attack.uasset",
+				"C:/UR5/CX/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"C:/UR5/CX/Content/VehicleTemplate/Blueprints/SportsCar/BP_SportsCar_Pawn.uasset",
+				"C:/UR5/CX/Content/Item/BP_CoinItem.uasset",
+				"C:/UR5/CX/Content/Item/BP_SpeedBuffItem.uasset",
+				"C:/UR5/CX/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/8/AU/MJXSPDX0I7TFG5F27OYOUI.uasset",
+				"C:/UR5/CX/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/3/9M/LVICQH3O654R6JCUAN7IUC.uasset"
+			]
+		}
+	]
+}

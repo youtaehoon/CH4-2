@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UR5\\CX\\Source\\CX\\CX.Build.cs",
+		"C:\\UR5\\CX\\Source\\CX.Target.cs",
+		"C:\\UR5\\CX\\Source\\CXEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
